@@ -17,7 +17,7 @@ Feel free to check my projects, even though they are old, leave some stars and f
 
 ### And...?
 Thank you for paying me a visit! 
-Also you can check my blog on dev.to, say hello and I will say hello back to you! :) 
+Also you can check my blog on dev.to, say hello and I will say hello back to you! The link is down below. :) 
 
 ### Connect with me
 - **Email**: alexandru.ene.dev@gmail.com
