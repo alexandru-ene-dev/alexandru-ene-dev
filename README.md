@@ -1,4 +1,29 @@
-## Hi there 👋
+## Hi there
+**I am Alexander, a self-taught fullstack web developer, eager to learn more and build real stuff**
+
+My last project: [Progressio Fullstack E-Commerce Website](https://progressio-ecommerce-website.vercel.app/ "Check it out")
+
+### Tech Stack
+- **Frontend**: React, TypeScript, JavaScript, HTML, CSS, Tailwind
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose
+- **Tools**: VSCode, Git, GitHub, Vercel, Render, MongoDB Compass, Figma, Postman
+
+### What's next?
+Currently I am looking to join a development team where I can grow, learn and contribute more
+
+
+### What else?
+Feel free to check my projects, even though they are old, leave some stars and feedback.
+
+### And...?
+Thank you for paying me a visit! 
+Also you can check my blog on dev.to, say hello and I will say hello back to you! :) 
+
+### Connect with me
+- **Email**: alexandru.ene.dev@gmail.com
+- **LinkedIn**: [alexandru-ene-dev](https://www.linkedin.com/in/alexandru-ene-dev)
+- **Dev**: [alexandru-ene-dev](https://dev.to/alexandru-ene-dev)
+
 
 <!--
 **alexandru-ene-dev/alexandru-ene-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
