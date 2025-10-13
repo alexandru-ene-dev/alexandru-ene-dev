@@ -23,6 +23,7 @@ Also you can check my blog on dev.to, say hello and I will say hello back to you
 - **Email**: alexandru.ene.dev@gmail.com
 - **LinkedIn**: [alexandru-ene-dev](https://www.linkedin.com/in/alexandru-ene-dev)
 - **Dev**: [alexandru-ene-dev](https://dev.to/alexandru-ene-dev)
+- **Discord**: alexandru.ene.dev
 
 
 <!--
