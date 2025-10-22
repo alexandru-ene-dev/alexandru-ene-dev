@@ -4,13 +4,13 @@
 My last project: [Progressio Fullstack E-Commerce Website](https://progressio-ecommerce-website.vercel.app/ "Check it out")
 
 ### Tech Stack
-- **Frontend**: React, TypeScript, JavaScript, HTML, CSS, Tailwind
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose
-- **Tools**: VSCode, Git, GitHub, Vercel, Render, MongoDB Compass, Figma, Postman
+- **Frontend**: Next.js, React, TypeScript, JavaScript, HTML, CSS, Tailwind
+- **Backend**: Node.js, Express.js, MongoDB, Render
+- **Deployment**: Vercel, Render
+- **Tools**: Git, GitHub, Compass, Figma, Postman, VSCode
 
-### What's next?
-Currently I am looking to join a development team where I can grow, learn and contribute more
-
+### Current Goal
+Currently I am looking to join a development team where I can grow, learn and contribute more.
 
 ### What else?
 Feel free to check my projects, even though they are old, leave some stars and feedback.
