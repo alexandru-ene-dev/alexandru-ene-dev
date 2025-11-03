@@ -1,7 +1,9 @@
 ## Hi there
 **I am Alexander, a self-taught fullstack web developer, eager to learn more and build real stuff**
 
-My last project: [Progressio Fullstack E-Commerce Website](https://progressio-ecommerce-website.vercel.app/ "Check it out")
+My last projects: 
+[Progressio Fullstack E-Commerce Website](https://progressio-ecommerce-website.vercel.app/ "Check it out")
+[Web Developer Portfolio](https://alexandru-ene-dev-portfolio.vercel.app/ "See my portfolio")
 
 ### Tech Stack
 - **Frontend**: Next.js, React, TypeScript, JavaScript, HTML, CSS, Tailwind
