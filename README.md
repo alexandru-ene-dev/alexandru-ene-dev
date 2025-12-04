@@ -1,5 +1,5 @@
 ## Hi there
-**I am Alexander, a self-taught fullstack web developer, eager to learn more and build real stuff**
+**I am Alexander, a self-taught web developer, eager to learn more and build real stuff**
 
 My last projects: 
 - [Progressio Fullstack E-Commerce Website](https://progressio-ecommerce-website.vercel.app/ "Check it out")
